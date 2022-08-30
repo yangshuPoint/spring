@@ -80,6 +80,14 @@
             <artifactId>spring-boot-starter-springfox</artifactId>
             <version>4.1.2-2.4.13</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-aop</artifactId>
+        </dependency>
     </dependencies>
 
     <!--        <dependency>-->
